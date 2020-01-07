@@ -16,8 +16,7 @@ Phase3
 94f15e02927c37af8d03225df02215b643ac031f
 
 git clone https://github.com/polarapu/batch50.git
-ls
-cd batch50"""""""HERO""""""""""""""""""
+
 
 touch file1
 git status
