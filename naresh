@@ -17,9 +17,7 @@ Phase3
 
 git clone https://github.com/polarapu/batch50.git
 hello 1/7/2019
-hello
-
-touch file1
+hello 
 git status
 git add file1
 git status
